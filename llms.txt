@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Carlow
+
+> Geotechnical engineering services in Carlow, Ireland.
+
+## Services
+- [Anchors](https://carlow.geotechnical-engineering.co/anchors/)
+- [Atterberg Limits](https://carlow.geotechnical-engineering.co/atterberg-limits/)
+- [Cbr Road](https://carlow.geotechnical-engineering.co/cbr-road/)
+- [Cpt Test](https://carlow.geotechnical-engineering.co/cpt-test/)
+- [Deep Excavations](https://carlow.geotechnical-engineering.co/deep-excavations/)
+- [Excavation Monitoring](https://carlow.geotechnical-engineering.co/excavation-monitoring/)
+- [Excavations](https://carlow.geotechnical-engineering.co/excavations/)
+- [Flexible Pavement](https://carlow.geotechnical-engineering.co/flexible-pavement/)
+- [Footings](https://carlow.geotechnical-engineering.co/footings/)
+- [Foundations](https://carlow.geotechnical-engineering.co/foundations/)
+- [Grain Size](https://carlow.geotechnical-engineering.co/grain-size/)
+- [Ground Improvement](https://carlow.geotechnical-engineering.co/ground-improvement/)
+- [Grouting](https://carlow.geotechnical-engineering.co/grouting/)
+- [In Situ Permeability](https://carlow.geotechnical-engineering.co/in-situ-permeability/)
+- [Investigation](https://carlow.geotechnical-engineering.co/investigation/)
+- [Lab In Situ](https://carlow.geotechnical-engineering.co/lab-in-situ/)
+- [Laboratory](https://carlow.geotechnical-engineering.co/laboratory/)
+- [Liquefaction](https://carlow.geotechnical-engineering.co/liquefaction/)
+- [Masw](https://carlow.geotechnical-engineering.co/masw/)
+- [Mat Foundations](https://carlow.geotechnical-engineering.co/mat-foundations/)
+- [Piles](https://carlow.geotechnical-engineering.co/piles/)
+- [Proctor Tests](https://carlow.geotechnical-engineering.co/proctor-tests/)
+- [Resistivity](https://carlow.geotechnical-engineering.co/resistivity/)
+- [Retaining Walls](https://carlow.geotechnical-engineering.co/retaining-walls/)
+- [Rigid Pavement](https://carlow.geotechnical-engineering.co/rigid-pavement/)
+- [Road Geotechnics](https://carlow.geotechnical-engineering.co/road-geotechnics/)
+- [Sand Cone Density](https://carlow.geotechnical-engineering.co/sand-cone-density/)
+- [Seismic](https://carlow.geotechnical-engineering.co/seismic/)
+- [Seismic Isolation](https://carlow.geotechnical-engineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://carlow.geotechnical-engineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://carlow.geotechnical-engineering.co/seismic-refraction/)
+- [Slope Stability](https://carlow.geotechnical-engineering.co/slope-stability/)
+- [Slopes](https://carlow.geotechnical-engineering.co/slopes/)
+- [Soft Ground Tunnels](https://carlow.geotechnical-engineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://carlow.geotechnical-engineering.co/spt-drilling/)
+- [Stone Columns](https://carlow.geotechnical-engineering.co/stone-columns/)
+- [Test Pits](https://carlow.geotechnical-engineering.co/test-pits/)
+- [Triaxial](https://carlow.geotechnical-engineering.co/triaxial/)
+- [Vibrocompaction](https://carlow.geotechnical-engineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://carlow.geotechnical-engineering.co/
+
+## About
+This site provides geotechnical engineering services in Carlow, Ireland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
